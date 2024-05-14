@@ -1,2 +1,3 @@
-# hello-world
-このリポジトリは GitHub Flow を実行するためのリポジトリです
+# About me
+
+My name is minomugeshi.
